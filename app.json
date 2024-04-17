@@ -1,6 +1,6 @@
 {
-  "name": "ELSA_BOT-V2",
-  "description": "تم تطرير البوت بواسطه الجزار وايتاتشي♥️",
+  "name": "PATCHERA_BOT-V2",
+  "description": "تم تطرير البوت بواسطه ابوهايف♥️",
   "logo": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
   "success_url": "/",
@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "صوره البوت.",
-     "value": "https://telegra.ph/file/ab4018d27c9929dc12595.jpg"
+     "value": "https://telegra.ph/file/b402088265d790edcd3b4.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "لا تغيره",
