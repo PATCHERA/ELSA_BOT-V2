@@ -1,5 +1,5 @@
 {
-               "name": "ELSA_BOT-V2",
+               "name": "PATCHERA_BOT-V2",
                "version": "4.0",
                "description": "Multi device whatsapp bot by Thushan.",
                "main": "lib/client.js",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name elsa",
                 "stop": "pm2 stop elsa-md"
                 },
-               "author": "Elgazar md",
+               "author": "PATCHERA md",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
