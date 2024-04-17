@@ -140,7 +140,7 @@ cmd({
     //---------------------------------------------------------------------------
 cmd({
             pattern: "alive",
-            alias :['بوت','السا'],
+            alias :['بوت','باتشيرا'],
             category: "general",
             filename: __filename,
             desc: "is bot alive??"
