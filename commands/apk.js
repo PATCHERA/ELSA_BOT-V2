@@ -36,7 +36,7 @@ let result = await download(text)
         
         \n *֎╎حـجـم الـمـلـف📊┇* ${size}
         
-        \n *❬ 𝑩𝒀 : 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻 ❭*`,
+        \n *❬ 𝑩𝒀 : 𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀 𝑩𝑶𝑻 ❭*`,
     })
     return Void.sendMessage(citel.chat, {
         document: {
@@ -44,8 +44,8 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*
-👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*`,
+        caption: `👑 *𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀❄️&ابوهايف♡: *
+👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀❄️ 𝑩𝑶𝑻*`,
     }, {
         quoted: citel,
     });
