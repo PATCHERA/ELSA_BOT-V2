@@ -13,7 +13,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 	let mime = await lookup(res)
 	text.match(URL_REGEX) ?
 		await conn.sendMessage(m.chat, { [mime.split( / )[0]]: { url: res }, caption: `Succes Download: ${await shortUrl(res)}` }, { quoted: m }) :
-	await conn.sendFile(m.chat, res,  pinterest.jpg , `*•┃❖نتيجه بحث ${text.capitalize()}*\n*•┃❖ا〘 ~𝐿𝑈𝐹𝐹𝑌-𝐵𝛩𝑇~ 〙*`, fkontak, m)
+	await conn.sendFile(m.chat, res,  pinterest.jpg , `*•┃❖نتيجه بحث ${text.capitalize()}*\n*•┃❖ا〘 ~𝑃𝐴𝑇𝐶𝐻𝐸𝑅𝐴_𝐵𝑂𝑇❄️~ 〙*`, fkontak, m)
 }
 handler.help = handler.alias = [ pinterest ]
 handler.tags = [ downloader ,  image ]
