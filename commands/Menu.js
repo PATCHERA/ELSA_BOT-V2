@@ -1,4 +1,4 @@
-//تم تطوير هذا الملف بواسطه الجزار وايتاتشي
+//تم تطوير هذا الملف بواسطه باتشيرا
 
 const { tlang, ringtone, cmd,fetchJson, sleep, botpic,ffmpeg, getBuffer, pinterest, prefix, Config } = require('../lib')
 const { mediafire } = require("../lib/mediafire.js");
@@ -12,7 +12,7 @@ var dlsize = 1000 // 1000mb
 
 cmd({
 
-            pattern: "1.1",           
+            pattern: "باتشيرا1",           
             alias :['اوامرالاعضاء'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -83,7 +83,7 @@ cmd({
 
 cmd({
 
-            pattern: "2.1",           
+            pattern: "2باتشيرا",           
             alias :['اوامرالمطور'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -155,7 +155,7 @@ cmd({
 
 cmd({
 
-            pattern: "3.1",           
+            pattern: "باتشيرا3",           
             alias :['اوامرالجروب'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -235,7 +235,7 @@ cmd({
 
 cmd({
 
-            pattern: "4.1",           
+            pattern: "4باتشيرا",           
             alias :['اوامرالتحميل'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -308,7 +308,7 @@ cmd({
 
 cmd({
 
-            pattern: "5.1",           
+            pattern: "5باتشيرا",           
             alias :['اوامرالالعاب'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -387,7 +387,7 @@ cmd({
 
 cmd({
 
-            pattern: "6.1",           
+            pattern: "6باتشيرا",           
             alias :['اوامرالتحويل'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -448,7 +448,7 @@ cmd({
 
 cmd({
 
-            pattern: "7.1",           
+            pattern: "باتشيرا7",           
             alias :['اوامرالانمي'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -508,7 +508,7 @@ cmd({
 
 cmd({
 
-            pattern: "8.1",           
+            pattern: "8باتشيرا",           
             alias :['اوامرالبنك'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -575,7 +575,7 @@ cmd({
 
 cmd({
 
-            pattern: "9.1",           
+            pattern: "9باتشيرا",           
             alias :['كل-الاوامر'],
             desc: "(menu cmdlist).",
             category: "downloader",
@@ -766,7 +766,7 @@ cmd({
 
 
 
-*~.¸¸ ❝ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇 ❝ ¸¸.~*
+*~.¸¸ ❝ 𝐏𝐀𝐓𝐂𝐇𝐒𝐄𝐑𝐀 𝐵𝑂𝑇 ❝ ¸¸.~*
 `,
 
                 footer: tlang().footer,
